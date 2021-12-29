@@ -6,7 +6,7 @@ import sys
 import platform
 
 # Variables declaration
-assignment = "Assignment # 4";
+assignment = "Assignment # 2";
 chStar, chEqual,chMultiple = "*", "=", 70;
 authorName,authorEmail = "Muhammad Arif", "imbst04@gmail.com";
 strSeprator = chStar*int(chMultiple/4) + chEqual*int(chMultiple/2) + chStar*int(chMultiple/4);
